@@ -1,0 +1,15 @@
+{
+  "name": "battleship-game",
+  "version": "1.0.0",
+  "description": "A Battleship game built using TypeScript and ESM",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
